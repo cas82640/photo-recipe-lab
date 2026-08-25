@@ -1,8 +1,8 @@
-const CACHE_NAME = 'photo-recipe-lab-v4';
+const CACHE_NAME = 'photo-recipe-lab-v5';
 const APP_SHELL = [
   "./",
-  "./assets/index-BvJjLZHS.js",
-  "./assets/index-CdwwlOp1.css",
+  "./assets/index-BXmU42q1.js",
+  "./assets/index-VQIYngXO.css",
   "./icons/icon-maskable.svg",
   "./icons/icon.svg",
   "./index.html",
